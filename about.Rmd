@@ -12,11 +12,57 @@ The task force is happy to engage with other individuals and organisations (such
 
 ## Core Team Members
 
-[Heather Turner](linkedin Page)-**Forwards Chair**. Your identitfy outside of Forwards and your association of R communicty(you deem the most important one). A link you think can display more about you (either be work or personal life). **See the below example for Jenny"
+[Heather Turner](https://uk.linkedin.com/in/heathrturnr)-**Chair**. She works as a freelance statistical programmer and is on the board of the R Foundation. [More about Heather](http://heatherturner.net/)
 
-[Jenny Bryan](LinkedIn page)- **Forwards team leader for 'On-ramps to becoming a developR"**. She's also an Assoc.Professor of Statistics at the University of British Columbia (on leave) and a [RStudio](https://www.rstudio.com) developer.[More about Jenny ](https://www.stat.ubc.ca/~jenny/)
+Gina Griffin- **'Community' team leader**. She is a Social Worker and a trauma therapist and now works with data related to research and program evaluation in R. [More about Gina](https://github.com/Allyris)
 
-**All the other 13 core members will follow the above examples**. 
+[Kevin O'Brien](https://ie.linkedin.com/in/kobriendublin)- **'Community' team leader**. He is a freelance statistical consultant and university teacher as well as the main organizer of Dublin R User Group wtih strong links with other data science user groups in Ireland and beyond.[More about Kevin](https://www.codinggrace.com/)
+
+Julie Josse-**'Conference' team leader**. She is a professor of statistics at Ecole Polytechnique in France and promotes her passion of R through R classes and statistical teaching. [More about Julie](http://juliejosse.com/)
+
+[Jenny Bryan](https://twitter.com/JennyBryan)- **Team leader for 'On-ramps to becoming a developR"**. She used to be an Assoc.Professor of Statistics at the University of British Columbia and now a developer at [RStudio](https://www.rstudio.com), a member of the R Foundation and serves in the leadership of rOpenSci. [More about Jenny ](https://www.stat.ubc.ca/~jenny/)
+
+[Michael Lawrence](https://www.linkedin.com/in/michael-lawrence-74a9b482/)- **Team leader for 'On-ramps to becoming a developR**. He's a Computational Biologist at Genentech and a member on R Foundation, R core and Bioconductor Core. 
+
+
+[Tracy Shen](https://www.linkedin.com/in/jiatracyshen/)- **'Social Media' team leader**. She is a Data Analyst at AccuWeather, Inc and holds the Data Science Specialization Certificate in R by Johns Hopkins University. [More about Tracy](https://github.com/tbs08)
+
+[David Smith](https://www.linkedin.com/in/dmsmith/)- **'Social Media' team leader**. He is the R Community Lead at Microsoft, and editor of the Revolutions blog. 
+
+[Jasmine Dumas](https://www.linkedin.com/in/jasminedumas/)- **'Surveys' team leader**. She is a Data Scientist at Simple and author of  `shinyGEO`, `ttbbeer`, `shinyLP`, `gramr` packages. [More about Jasmine](https://jasdumas.github.io/).
+
+[Emily Dodwell](https://www.linkedin.com/in/emilymdodwell/)- **'Teaching' team administrator**. She is a Data Scientist and R enthusiast in the Big Data Research Statistics Department at AT&T Labs, as well as an active member of the New York City R community. 
+
+[Isabella Gollini](https://www.linkedin.com/in/isabellagollini/)- **'Teaching' team leader**. She is a Lecturer in Statistics at Birkbeck, University of London and a RLadies mentor. [More about Isabella](https://sites.google.com/site/isabellagollini/)
+
+Jonathan Godfrey- **Multiple member at 'Conferences', 'Surveys', 'Teaching' teams**. He was the first totally blind person in the world to gain employment as a Lecturer in Statistics (Massey University, NZ) and now assists Forwards through advice on how disabled people can be included in the R community.[More about Jonanthan](https://R-Resources.massey.ac.nz/BrailleR)
+
+## Sub Team Members
+
+[Noa Tamir](https://www.linkedin.com/in/noatamir)- **'Community' team member**. [More about Noa](noatamir.com)
+
+Gina Merchant- **'Conferences', 'Social Media' team member**. [More about Gina](http://gmerchant.ucsd.edu)
+
+[Charlotte Wickham](https://www.linkedin.com/in/charlotte-wickham-793a011a)- **'On-ramps' team member**.[More about Charlotte](http://cwick.co.nz)
+ 
+ 
+[Joyce Robbins](https://www.linkedin.com/in/joycerobbins/)- **'Teaching' team member**.[More about Joyce](http://www.joyce-robbins.com/about/)
+
+[Joslynn Lee](https://www.linkedin.com/in/joslynnlee/)- **'Community' team member**.
+
+[Ileena Mitra](https://www.linkedin.com/in/ileena-mitra-86a5955a/)- **'Community' team member**. [More about Ileena](https://ileenamitra.github.io/)
+
+[Rudolf Debelak](https://www.linkedin.com/in/rudolf-debelak-5214a85b/)- **'Surveys' team member**. [More about Rugolf](https://www.psychologie.uzh.ch/en/fachrichtungen/methoden/team/rudolfdebelak.html)
+
+John Fox- **'Surveys' team member**. [More about John](http://socserv.mcmaster.ca/jfox/)
+
+Wenfeng Qin- **'Social Media' team member**. [More about Wenfeng](https://github.com/qinwf)
+
+Maëlle Salmon- **'Surveys' team member**.[More about Maëlle](http://www.masalmon.eu/)
+
+
+
+
 
 
 
