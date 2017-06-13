@@ -31,6 +31,8 @@ Julie Josse-**'Conference' team leader**. She is a professor of statistics at Ec
 
 [Jasmine Dumas](https://www.linkedin.com/in/jasminedumas/)- **'Surveys' team leader**. She is a Data Scientist at Simple and author of  `shinyGEO`, `ttbbeer`, `shinyLP`, `gramr` packages. [More about Jasmine](https://jasdumas.github.io/).
 
+[Madlene Hamilton](https://www.linkedin.com/in/madlenehamilton/)- **'Surveys' team leader**. She is a research scientist and has been working on data projects in the social science and innovation arena for over 20 years. [More about Madlene](https://twitter.com/madlenehamilton)
+
 [Emily Dodwell](https://www.linkedin.com/in/emilymdodwell/)- **'Teaching' team administrator**. She is a Data Scientist and R enthusiast in the Big Data Research Statistics Department at AT&T Labs, as well as an active member of the New York City R community. 
 
 [Isabella Gollini](https://www.linkedin.com/in/isabellagollini/)- **'Teaching' team leader**. She is a Lecturer in Statistics at Birkbeck, University of London and a RLadies mentor. [More about Isabella](https://sites.google.com/site/isabellagollini/)
